@@ -1,0 +1,8 @@
+Vacuum
+<<<<<<< HEAD
+Rake Leaves
+=======
+Rake leaves
+Watch football
+>>>>>>> Dan
+Halloween candy
